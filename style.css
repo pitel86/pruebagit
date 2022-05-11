@@ -5,6 +5,10 @@ body{
 div{
     padding:30px;
 }
+.subtitulo {
+    text-align: center;
+    background-color: red;
+}
 h3{
     color: aqua;
 }
